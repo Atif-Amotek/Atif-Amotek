@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atif</h1>
-<h3 align="center">Am I doing this correct?</h3>
+<h3 align="center">These Stats don't seem right 🤔</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atif-amotek" alt="atif-amotek" /></a> </p>
 
